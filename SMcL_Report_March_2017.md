@@ -35,18 +35,15 @@ Existing tools require users to provide their own systems for generating and man
 
 
 
-
-
-
-
 ## ML Landscape
 
 Speaker recognition (sometimes called speaker identification) is an active topic in machine learning research, comprising several classes of problems: Text-dependent classifiers use human- or machine-generated transcripts to help make classifications; text-independent systems rely solely on audio data. Closed-set classifiers expect that each passage in a given recording can be classified as one of several individuals used to train the model, while open-set systems attempt to locate a single individual as compared to a training set made up of audio from many different speakers.
 
 Open-set, text-independent speaker recognition is the most difficult problem in the subfield, made more difficult in the context of noisy, unpredictable data in real-world collections. When training classifiers for this task, ML researchers have used two approaches: universal background models (UBM) and cohort models. The former compares audio of a given speaker to a broad, perhaps randomly selected, collection of other speech recordings. Cohort models, by contrast, are trained using voices known to sound similar to the speaker in question in an attempt to improve discriminative subtlety.
 
-
 Most state-of-the-art speaker recognition systems follow one of two paradigms: i-vectors and deep neural nets. Under the i-vector approach, which gained popularity in the early 2010s (Dehak et al. 2011), low-dimensional vectors (i-vectors or "identity vectors") extracted from low-level audio features using factor analysis, are used to train classifiers, with support vector machines (SVM) and gaussian mixture models (GMM) as the most popular options. Recent work suggests deep neural nets (DNNs) can outperform such i-vector systems; alternately, DNNs may be trained using on extracted i-vector data.
+
+
 
 ## Software landscape
 
@@ -117,6 +114,8 @@ Because each ML tool plays one part in a longer pipeline, system designers are e
 
 - More human tagging, then iterate.
 
+  ​
+
 
 
 ## Work coming next
@@ -124,6 +123,6 @@ Because each ML tool plays one part in a longer pipeline, system designers are e
 
 - Add music/speech classification as another preprocessing step.
 
-- Design standard format for documenting and sharing trained models.
+- Design standard format for documenting and publishing trained models and extracted features.
 
 - Work to implement up-to-date audio ML software (most likely SIDEKIT).
