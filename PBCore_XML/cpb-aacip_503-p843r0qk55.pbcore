@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Created'>2007-10-11</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-p843r0qk55</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR71731</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>f75082bdbb844829a03c514c1893f4f8</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>The Exchange</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Interview with Hillary Clinton</pbcoreTitle>
+  <pbcoreSubject>Public Affairs</pbcoreSubject>
+  <pbcoreDescription descriptionType='Episode'>
+     With her host and in response to caller questions, guest U.S. Sen. Hillary
+    Clinton of New York, a Democratic presidential candidate, discusses a range
+    of campaign and policy issues, including her middle class retirement savings
+    plan and opposition to privatizing Social Security; her plan to end the Iraq
+    War early in her administration, her healthcare plan, her electability and
+    ability to withstand and defeat "the Republican attack machine,"
+    transcending partisanship in Washington, her belief in using diplomacy with
+    the Iranian Revolutionary Guard, and the importance of her religious faith. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Economics</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Global Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Call-in</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>War and Conflict</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Public Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Religion</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>New Hampshire</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Laura Knoy</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Clinton, Hillary Rodham</contributor>
+    <contributorRole>Interviewee</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='          '>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR71731</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>Audio Archive Server 101107_090636.WAV</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationFileSize>262</instantiationFileSize>
+    <instantiationDuration>0:51:31</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-01-28 09:49:04</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

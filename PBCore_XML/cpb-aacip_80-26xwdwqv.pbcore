@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetDate dateType='Broadcast'>2001-06-28</pbcoreAssetDate>
+  <pbcoreIdentifier source='WNYC Archive Catalog'>29359</pbcoreIdentifier>
+  <pbcoreIdentifier source='pbcore XML database UUID'>c01ba287-7022-4fde-bf7c-9d14cb802f26</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/80-26xwdwqv</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>9e5774f2a6b840bfa5b6f965b32dd2d5</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>On the Line</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>
+     HILLARY&apos;S OTHER BILL SENATOR CLINTON ON THE PATIENTS BILL OF RIGHTS
+    10:05-10:10 HILLARY CLINTON SENATOR (D-NY) http://clinton.senate.gov/ ON
+    TAPE THE SHOCKING TRUTH ABOUT MENTAL ILLNESS EL 
+  </pbcoreTitle>
+  <pbcoreDescription>
+     HILLARY'S OTHER BILL SENATOR CLINTON ON THE PATIENTS BILL OF RIGHTS
+    10:05-10:10 HILLARY CLINTON SENATOR (D-NY) http://clinton.senate.gov/ ON
+    TAPE THE SHOCKING TRUTH ABOUT MENTAL ILLNESS ELECTROSHOCK AND OTHER HOT
+    TOPICS IN MENTAL HEALTH 10:10-10:20 JODY SILVER CO-PRESIDENT OF THE NEW YORK
+    ASSOCIATION OF PSCHIATRIC REHABILITATION http://www.contac.org/NYAPRS.htm
+    (917)697-8629 WHY ARE NEW YORKERS BLOODTHIRSTY? A PROPOSED BAN ON BLOOD FROM
+    EUROPE 10:20-10:40 ERICK SENALDI MEDICAL DIRECTOR OF THE NEW YORK BLOOD
+    CENTER http://www.nybloodcenter.org/ WILL CALL US. CT. LINDA: 570-3011 1800
+    933 BLOOD WHEN CUSTODY MEANS KIDNAPPING PARENTS ABDUCTING CHILDREN, AND THE
+    FIGHT TO RESCUE THEM 10:40-11:00 MAUREEN DABBAGH FOUNDER OF P.A.R.E.N.T., AN
+    INTERNATIONAL, NON-PROFIT PARENTAL ABDUCTION SUPPORT NETWORK AND AUTHOR. SHE
+    IS ALSO FIGHTING FOR THE RETURN OF HER DAUGHTER, NADIA. RECOVERY OF
+    INTERNATIONALLY ABDUCTED CHILDREN (757) 497-0042 THE SOAPBOX YAKKETY YAK
+    11:05-11:20 THE GOVERNOR GOES BACK TO SCHOOL BUT DOES ROY ROMER NEED
+    REMEDIAL EDUCATION? 11:20-11:40 MATTHEW MILLER JOURNALIST
+    http://www.washingtonmonthly.com/feat ures/2001/0106.miller.html 310 230
+    1600 HOME OFFICE THE BEST LEGAL WHOREHOUSE IN NEVADA PRIVATE LIVES AND
+    PUBLIC HEALTH IN OUR NATION'S OLDEST BROTHEL 11:40-12:00 ALEXA ALBERT
+    HARVARD MEDICAL STUDENT AND AUTHOR BROTHEL: MUSTANG RANCH AND ITS WOMEN WILL
+    CALL US. CT LARA 583-2787 CALL AT 3 ON TUES FOR INTER 206-861-1216 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+     "On the Line is a news talk show, hosted by Brian Lehrer, featuring
+    in-depth conversations about news and current events, accompanied by
+    questions from listeners calling in." 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Talk Show</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='genre'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Call-in</pbcoreGenre>
+  <pbcoreContributor>
+    <contributor>Hake, Richard</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Clinton, Hillary Rodham</contributor>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>WNYC</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNYC Media Archive MDB'>29359.1</instantiationIdentifier>
+    <instantiationIdentifier source='WNYC Media Archive Shipping ID'>OTLD</instantiationIdentifier>
+    <instantiationIdentifier source='WNYC Archive Offsite ID'>WNY148</instantiationIdentifier>
+    <instantiationIdentifier source='pbcore XML database UUID'>47fc3fb2-2f70-43a1-8daa-a660457bf421</instantiationIdentifier>
+    <instantiationDate dateType='issued'>2001-06-28</instantiationDate>
+    <instantiationPhysical>F1 Beta tape</instantiationPhysical>
+    <instantiationLocation>Iron Mountain</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>00:00:00</instantiationDuration>
+    <instantiationAnnotation annotationType='generation_copy'>Master tape</instantiationAnnotation>
+    <instantiationAnnotation annotationType='original_dateAdded'>2007-08-13T00:00:00</instantiationAnnotation>
+    <instantiationAnnotation annotationType='nominated'>Y</instantiationAnnotation>
+    <instantiationAnnotation>AACIP Nominated/1st Priority</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-80-26xwdwqv.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-16</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>164</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:59:21</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-80-26xwdwqv.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-16</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>4</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:59:21</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 03:00:47</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WNYC-FM</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

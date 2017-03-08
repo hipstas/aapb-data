@@ -1,0 +1,50 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType/>
+  <pbcoreAssetDate dateType='Created'>1980-02-28</pbcoreAssetDate>
+  <pbcoreIdentifier source='SCETV ReelNumber'>N01306</pbcoreIdentifier>
+  <pbcoreIdentifier source='SCETV SeriesCode'>0428-0000</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/41-655dvpsb</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>8ae2506e6d694e428a370b907e6d35ea</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Carolina Journal</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Presidential Candidates</pbcoreTitle>
+  <pbcoreDescription descriptionType='Clip'>
+     Cut 1: NEED LOG!!!!br /br /br /CUT 1-JOHN CONNALLY, ROBERT DOLE, RONALD
+    REAGAN;br /CUT 2-FERNANDEZ, HAROLD STASSEN, BULLOSO (NAMES????)br /CUT
+    3-GENERIC S.C. STATE HOUSE FOOTAGE FOR MONITOR 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Episode'>
+     CATS Number: 91-EA-326-000br /Program Catalog EntryDate: 10/23/1991br
+    /Program Title: PRES. CANDIDATES 1980 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+     NEED LOG!!!!br /br /CUT 1-JOHN CONNALLY, ROBERT DOLE, RONALD REAGAN;br /CUT
+    2-FERNANDEZ, HAROLD STASSEN, BULLOSO (NAMES????)br /CUT 3-GENERIC S.C. STATE
+    HOUSE FOOTAGE FOR MONITOR 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>801306</pbcoreDescription>
+  <pbcoreGenre annotation='topic'>Public Affairs</pbcoreGenre>
+  <pbcoreGenre annotation='topic'>News</pbcoreGenre>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='SCETV Reel Number'>N01306</instantiationIdentifier>
+    <instantiationDate dateType='assetRecorded'>1980-02-28</instantiationDate>
+    <instantiationPhysical>3/4 inch videotape: U-matic</instantiationPhysical>
+    <instantiationLocation>SCETV Tape Vault</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Work tape</instantiationGenerations>
+    <instantiationDuration>00:30:00:00</instantiationDuration>
+    <instantiationChannelConfiguration>Ch 1 Nats and Dialogue; Ch 2 Nats and Dialogue</instantiationChannelConfiguration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationAnnotation>AACIP Nominated/1st Priority</instantiationAnnotation>
+    <instantiationAnnotation annotationType='Alternate Generation'>Work tape</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 03:09:38</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>South Carolina Network (SCETV) (WRLK)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

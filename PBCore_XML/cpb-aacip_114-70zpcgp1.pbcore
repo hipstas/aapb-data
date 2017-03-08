@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Broadcast'>1977-09-07</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/114-70zpcgp1</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>f6ece81016e945b0a62156a5ff49c26e</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Front Row Center</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Tanglewood: The Other Side Of The Lawn</pbcoreTitle>
+  <pbcoreDescription>A look at the summer home of the Boston Symphony Orchestra in Lenox, MA</pbcoreDescription>
+  <pbcoreGenre annotation='genre'>Documentary</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Music</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>Tanglewood (Music festival)</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCreator>
+    <creator>Ron Nicodemus</creator>
+    <creatorRole>Director</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Ron Nicodemus</contributor>
+    <contributorRole>Producer</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WGBY</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcorePublisher>
+    <publisher>WGBY</publisher>
+    <publisherRole>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>Copyright held in perpetuity by WGBY</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WGBY Library &amp;amp; Archives'>AC784277334</instantiationIdentifier>
+    <instantiationDate dateType='issued'>1977-09-07</instantiationDate>
+    <instantiationPhysical>Betacam</instantiationPhysical>
+    <instantiationLocation>R3 B3 S4</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Dub</instantiationGenerations>
+    <instantiationDuration>00:58:40</instantiationDuration>
+    <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 MOS</instantiationChannelConfiguration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-114-70zpcgp1.mpeg2.mxf</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-03-04</instantiationDate>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationStandard>OP-1a</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Mezzanine</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>26</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>63</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>MPEG-2 Video</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>50</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>12</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MXF TC</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>SMPTE TC</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>OC OCTk 2.1</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-114-70zpcgp1.j2k.mxf</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-03-04</instantiationDate>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationStandard>OP-1a</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>27</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>67</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.morgan-multimedia.com/JPEG 2000/'>JPEG 2000</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>63</essenceTrackDataRate>
+      <essenceTrackFrameRate>59.940</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>16:9</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>3072</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>SMPTE TC</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>SMPTE TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Front Porch Digital J2K MXF Wrapper Based on MXFLib 1.0.1(13)-Beta</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-114-70zpcgp1.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-03-04</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>362</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>856</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>721</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:59:03</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-17 13:50:15</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBY</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

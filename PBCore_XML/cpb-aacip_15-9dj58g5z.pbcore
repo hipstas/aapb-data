@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1978-03-30</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>5b6df307cc16da41c0ca1f1ace55fce82df5b2e6</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>165180.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-9dj58g5z</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>8fbff6c7d0784630b0f8a92f36e72356</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>Martin Luther King Jr. [Part 3 of 5]</pbcoreTitle>
+  <pbcoreTitle titleType='Segment'>Massey Lecture Series</pbcoreTitle>
+  <pbcoreSubject subjectType='Personal'>King, Martin Luther, Jr., 1929-1968</pbcoreSubject>
+  <pbcoreSubject source='PBS PODS'>African Americans</pbcoreSubject>
+  <pbcoreSubject>Civil Rights</pbcoreSubject>
+  <pbcoreSubject>civil rights leaders</pbcoreSubject>
+  <pbcoreSubject subjectType='Subject Heading'>Speeches, addresses, etc., American</pbcoreSubject>
+  <pbcoreDescription descriptionType='Description'>
+     Third in a series of broadcasts in commemoration of the passing of Martin
+    Luther King, Jr. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Social Issues</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>03/30/1978</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcorePublisher>
+    <publisher>WGBH Educational Foundation</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:It is the responsibility of a production to investigate and
+      re-clear all rights before re-use in any project.,Rights Type:,Rights
+      Credit:,Rights Holder:WGBH Educational Foundation 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:Not to be released to Open Vault.,Rights Type:Web,Rights
+      Credit:,Rights Holder: 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>5b6df307cc16da41c0ca1f1ace55fce82df5b2e6</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>barcode116002.wav</instantiationIdentifier>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>Archives (department)</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationTimeStart>00:00:00</instantiationTimeStart>
+    <instantiationDuration>00:30:28</instantiationDuration>
+    <instantiationAnnotation>Original For:1/4 inch audiotape</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-9dj58g5z__116002_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-02-19</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>28</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>128</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:30:28</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-9dj58g5z__116002_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-11-11</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>670</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>3072</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>3072</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:30:28</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-9dj58g5z__116002_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-02-19</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>28</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>128</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:30:28</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-9dj58g5z__116002_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-11-11</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>670</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>3072</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>3072</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:30:28</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-01-13 11:16:02</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

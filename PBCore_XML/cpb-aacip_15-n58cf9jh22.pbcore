@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1979-12-31</pbcoreAssetDate>
+  <pbcoreIdentifier source='ITEM_IDENTIFIER'>V_USOXZ5EIITZK657</pbcoreIdentifier>
+  <pbcoreIdentifier source='UOI_ID'>c9fc54d532f8385b01beedb711d4bcc703274fd5</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>212305.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-n58cf9jh22</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>05759d4d94a3464b934c4ee9ebe44907</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Ten O&apos;Clock News</pbcoreTitle>
+  <pbcoreSubject subjectType='Personal'>Bush, George, 1924-</pbcoreSubject>
+  <pbcoreSubject subjectType='Subject Heading'>Presidents -- United States -- Election -- 1980</pbcoreSubject>
+  <pbcoreSubject>Primaries</pbcoreSubject>
+  <pbcoreDescription descriptionType='Description'>Presidential candidates in New Hampshire before the primary.</pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='genre'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>News</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tracking Number</pbcoreRelationType>
+    <pbcoreRelationIdentifier>0000022644</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tape</pbcoreRelationType>
+    <pbcoreRelationIdentifier>2747</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>12/31/1979</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcorePublisher>
+    <publisher>WGBH Educational Foundation</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:,Rights:,Rights Credit:WGBH Educational Foundation,Rights
+      Type:All,Rights Coverage:,Rights Holder:WGBH Educational Foundation 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>c9fc54d532f8385b01beedb711d4bcc703274fd5</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>barcode22644.mov</instantiationIdentifier>
+    <instantiationDimensions>720 x 486</instantiationDimensions>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>Archives (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationDuration>00:09:15:02</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier>Video Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>v210 Apple FCP Uncompressed 10-bit 4:2:2</essenceTrackEncoding>
+      <essenceTrackPlaybackSpeed>29.97</essenceTrackPlaybackSpeed>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>1.48:</essenceTrackAspectRatio>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:05:55</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:05:55</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 2</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:05:55</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 3</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:05:55</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 4</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:05:55</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-n58cf9jh22__barcode22644_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-06-11</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>55</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>834</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>700</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-n58cf9jh22__barcode22644_.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2011-12-19</instantiationDate>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>15</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>228</instantiationDataRate>
+    <instantiationTracks>1 video, 4 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>v210</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>224</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>10</essenceTrackBitDepth>
+      <essenceTrackFrameSize>704 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>6</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>7</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>8</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>9</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>10</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:09:15</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) compression format : v210 Apple FCP Uncompressed 10-bit 4:2:2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) duration : 555.622 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 3) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 3) duration : 555.622 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 3) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 3) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 3) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 4) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 4) duration : 555.622 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 4) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 4) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 4) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Source'>
+     /Volumes/bigDisks/Muraszko Projects/Capture
+    Scratch/Digitizing!/barcode22644.mov 
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) duration : 555.622 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>Some audio problems.</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) frames per second : 29.97</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>Some video problems.</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) width/height/depth : 720 / 486 / 24</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) duration : 555.622 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-02-17 18:42:16</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

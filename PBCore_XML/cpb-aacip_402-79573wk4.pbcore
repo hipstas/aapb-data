@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/402-79573wk4</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>e110dab499bb41d686a117b3591e4d54</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Eklektikos</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Camilli Quartet (Mozart)</pbcoreTitle>
+  <pbcoreDescription descriptionType='Description'>
+     "Eklektikos is a music show, hosted by John Aielli and featuring
+    performances accompanied by interveiws with the musicians between songs." 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Music</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Talk Show</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Performance</pbcoreGenre>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='KUT Austin'>Reel_19920330_Cami_Quar</instantiationIdentifier>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>KUT Austin</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-402-79573wk4.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-06-07</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>49</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>128</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:54:07</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-402-79573wk4.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-06-06</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:54:07</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-01 19:10:23</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KUT Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1972-06-29</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>006101bca582e089ad3b5ff22306ca989330431c</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>241594.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-nc5s756s32</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>37a3d73ea8704a0783d4e19bf3ebc547</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>War and Peace in the Nuclear Age</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>One Step Forward</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>107</pbcoreTitle>
+  <pbcoreTitle titleType='Title'>President Nixon&apos;s Arms Control Press Conference</pbcoreTitle>
+  <pbcoreSubject>arms control</pbcoreSubject>
+  <pbcoreSubject>International Relations</pbcoreSubject>
+  <pbcoreSubject subjectType='Keyword'>Military weapons</pbcoreSubject>
+  <pbcoreDescription descriptionType='Description'>President Richard Nixon holds a press conference about world arms control.</pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Global Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Military Forces and Armaments</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tracking Number</pbcoreRelationType>
+    <pbcoreRelationIdentifier>50254</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>File</pbcoreRelationType>
+    <pbcoreRelationIdentifier>AB-03099</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tape</pbcoreRelationType>
+    <pbcoreRelationIdentifier>01007A</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Source</pbcoreRelationType>
+    <pbcoreRelationIdentifier>Nixon Presidential Library</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Source Reference ID</pbcoreRelationType>
+    <pbcoreRelationIdentifier>1211-252-72</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>6/29/1972</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor>Nixon, Richard M. (Richard Milhous), 1913-1994</contributor>
+    <contributorRole>Speaker2</contributorRole>
+  </pbcoreContributor>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:,Rights:Public Domain,Rights Credit:Nixon Presidential
+      Library,Rights Type:All,Rights Coverage:In perpetuity,Rights Holder:Nixon
+      Presidential Library 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>006101bca582e089ad3b5ff22306ca989330431c</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>barcode50254_clip3.mov</instantiationIdentifier>
+    <instantiationDimensions>720 x 486</instantiationDimensions>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>Archives (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationDuration>00:06:56:00</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier>Video Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>v210 -</essenceTrackEncoding>
+      <essenceTrackPlaybackSpeed>29.96</essenceTrackPlaybackSpeed>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>1.48:</essenceTrackAspectRatio>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:04:17</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:04:17</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 2</essenceTrackIdentifier>
+      <essenceTrackEncoding>in24 24-bit Integer</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:04:17</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-nc5s756s32__barcode50254_clip3_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-11-27</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>42</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>843</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>713</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-nc5s756s32__barcode50254_clip3.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-07-11</instantiationDate>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>11</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>227</instantiationDataRate>
+    <instantiationTracks>1 video, 2 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>v210</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>224</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>10</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>3:2</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>5</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>6</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>7</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:06:57</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) frames per second : 29.96</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) duration : 417.451 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) width/height/depth : 720 / 486 / 24</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) duration : 417.451 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) duration : 417.451 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) compression format : in24 24-bit Integer</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) bits/channels : 16 / 1</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 2) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Source'>
+     /Volumes/Internal Storage/Final Cut Pro Documents/Capture
+    Scratch/Nuclear_Age/barcode50254_clip3.mov 
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) compression format : v210 -</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Outside URL'>http://openvault.wgbh.org/catalog/openvault:5</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-02-17 15:22:18</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

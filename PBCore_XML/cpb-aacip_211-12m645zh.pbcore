@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetDate dateType='Created'>1979-11-07</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/211-12m645zh</pbcoreIdentifier>
+  <pbcoreIdentifier source='VPR'>P8439</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>dbd5a8dedfe04e7d827fd588e5efd089</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>
+     Live Performance by the White Mountain Festival Orchestra in Jefferson, New
+    Hampshire 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Program'>
+     In this program the White Mountain Fesitval Orchestra performs the suite in
+    B Flat for Winds, Opus 4 by Richard Strauss, the violin concerto number 5 in
+    A Kochel 219 by Mozart, and the symphony number 4 in B Flat, Opus 60 by
+    Beethoven. Syoko Aki, concert master of the Festival Orchestra is the
+    featured soloist in the Mozart concerto. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Music</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Performance</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='topic'>Recorded Music</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Mozart, Wolfgang Amadeus, 1756-1791</creator>
+    <creatorRole>Composer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreCreator>
+    <creator>Strauss, Richard, 1864-1949</creator>
+    <creatorRole>Composer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Lurtsema, Robert J.</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation=' White Mountains Festival '>White Mountains Festival Orchestra</contributor>
+    <contributorRole>Performing Group</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation=' White Mountains Festival Orchestra '>Schwarz, Gerard, 1947-</contributor>
+    <contributorRole>Composer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation=' White Mountains Festival Orchestra '>Aki, Syoko</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='VPR'>P8439</instantiationIdentifier>
+    <instantiationDate dateType='created'>1979-11-07</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Patchen Road - Box 57</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>01:00:00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-211-12m645zh.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-05</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>137</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:39:38</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-211-12m645zh.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-05</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>3</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:39:38</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-05-26 11:05:05</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Vermont Public Radio - WVPR</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

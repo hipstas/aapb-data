@@ -1,0 +1,44 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='Maryland Public Television'>50065</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/394-46d25f9q</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>8a866244c0054b7ea3e6bb97aab2e9a3</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Outdoors Maryland</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Outdoors Maryland Classics #104</pbcoreTitle>
+  <pbcoreDescription>
+     Search &amp; Rescue: Dogs are trained to find lost people. Breaking the
+    Surface: DNR efforts to study the Marlin. The Challenge, Cubed: One woman's
+    journey to compete in Columbia Triathalon. 
+  </pbcoreDescription>
+  <pbcoreGenre annotation='topic'>Nature</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Maryland Public Television</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>Maryland Public Television</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Maryland Public Television'>DB3-0645 - 50065</instantiationIdentifier>
+    <instantiationDate dateType='issued'>2007-07-01</instantiationDate>
+    <instantiationPhysical>Betacam Digital (Digi Beta)</instantiationPhysical>
+    <instantiationLocation>MC Library, Unit 11, Side A, Column 3, Shelf 6, 50065</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>00:25:25</instantiationDuration>
+    <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 Full Mix</instantiationChannelConfiguration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAlternativeModes>CC</instantiationAlternativeModes>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-17 23:39:01</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Maryland Public Television</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

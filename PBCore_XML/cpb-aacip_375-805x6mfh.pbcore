@@ -1,0 +1,35 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='Radio Bilinge'>SM0001</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-805x6mfh</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>3a6b2c60f51b48da87be93714b76c252</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Su Musica.</pbcoreTitle>
+  <pbcoreDescription>Su Musica. Documentation del Mariachi</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>KSJV</creator>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>KSJV</publisher>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>SM0001</instantiationIdentifier>
+    <instantiationDate dateType='created'>1988-04-12</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Archive Unit 7</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>00:01:00;00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationLanguage>spa</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:20:35</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

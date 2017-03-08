@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType/>
+  <pbcoreAssetDate dateType='Date'>2009-09-17</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>d50ed78b91a4b617b6ccef6c9cf74fb51bd5516f</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>139016.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-1c1td9n728</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>4c11973aa9aa4a49b4d16cb5d1a0de9b</pbcoreIdentifier>
+  <pbcoreTitle titleType='Collection'>John F. Kennedy Library Foundation</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>WGBH Forum Network</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Exploring the Space Frontier</pbcoreTitle>
+  <pbcoreTitle titleType='Title'>3829-2007_09_17.Avi</pbcoreTitle>
+  <pbcoreSubject subjectType='Keyword'>Society and Culture</pbcoreSubject>
+  <pbcoreSubject>Technology</pbcoreSubject>
+  <pbcoreDescription descriptionType='Episode'>
+     On the 45th anniversary of President Kennedy's Rice University speech about
+    going to the moon, NASA Astronaut and Needham, Massachusetts native, Sunita
+    Williams shares her experience being a crew member of the International
+    Space Station and the Space Shuttle. While on the International Space
+    Station, Williams set a world record for women with four spacewalks totaling
+    29 hours and 17 minutes. Williams has logged a total of 195 days in space. 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+     Sunita Williams shares her experience being a crew member of the
+    International Space Station and the Space Shuttle. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Science</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Source Reference ID</pbcoreRelationType>
+    <pbcoreRelationIdentifier>3829</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>JFK Library and Museum</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>9/17/2007</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor affiliation='NASA'>Williams, Sunita</contributor>
+    <contributorRole>Speaker2</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WGBH</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>d50ed78b91a4b617b6ccef6c9cf74fb51bd5516f</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>3829-2007_09_17.avi</instantiationIdentifier>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationLocation>WGBH Forum Network (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-1c1td9n728__3829-2007_09_17.avi</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-08-07</instantiationDate>
+    <instantiationDigital>video/vnd.avi</instantiationDigital>
+    <instantiationStandard>OpenDML</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>19</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>30</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>Sony DV</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>24</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:1:1</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1536</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-1c1td9n728__3829-2007_09_17_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-11-29</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>533</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>817</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>704</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>109</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='SOURCE'>lecture ID</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-02-18 00:32:57</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

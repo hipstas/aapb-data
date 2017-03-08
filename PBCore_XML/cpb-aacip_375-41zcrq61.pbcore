@@ -1,0 +1,33 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreIdentifier source='Radio Bilinge'>MS1072</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-41zcrq61</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>3cde79e43f5c480e90081e67f3c8d21f</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>Miscellaneous</pbcoreTitle>
+  <pbcoreSubject>General</pbcoreSubject>
+  <pbcoreDescription>Miami connection</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>Radio Bilingue</creator>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>MS1072</instantiationIdentifier>
+    <instantiationDate dateType='created'>1981-07-27</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Unit 2</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>01:00:00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationLanguage>spa</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:20:47</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

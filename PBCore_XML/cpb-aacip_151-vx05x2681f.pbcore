@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreIdentifier source='unknown'>5631</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>10d26861ab3b43bda2a350e4cd8aa039</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/151-vx05x2681f</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>American Experience</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Malcolm X: Make It Plain. Reel 1</pbcoreTitle>
+  <pbcoreDescription>
+     This definitive biography weaves together interviews, archival footage,
+    photographs, and an original score to portray the fascinating intellectual
+    journey of a complex man whose ideas resonate today. 
+  </pbcoreDescription>
+  <pbcoreGenre annotation='genre'>Documentary</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Biography</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType>isPartof</pbcoreRelationType>
+    <pbcoreRelationIdentifier>cpbaacip/151mc8rb6wk8n</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCreator>
+    <creator>Fayer, Steve</creator>
+    <creatorRole>Writer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreCreator>
+    <creator>Bagwell, Orlando</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreCreator>
+    <creator>Richardson, Judy</creator>
+    <creatorRole>CoProducer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Chin, Michael</contributor>
+    <contributorRole>Cinematographer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Woodard, Alfre</contributor>
+    <contributorRole>Narrator</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Tsien, Jean</contributor>
+    <contributorRole>Editor</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='AAPB Filename'>cpbaacip151mc8rb6wk8n__fma_2_56_3_1_pres_20100112_.h264.mp4</instantiationIdentifier>
+    <instantiationLocation>unknown</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-03-17 11:37:23</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Film &amp; Media Archive, Washington University in St. Louis</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

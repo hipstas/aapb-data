@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType/>
+  <pbcoreAssetDate dateType='Date'>2009-01-11</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>669b848df203b529f61f6b1c18580a1f93fd5676</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>203053.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-3f4kk94b5t</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>c6a2d00f728f46bdaf20a346469f016f</pbcoreIdentifier>
+  <pbcoreTitle titleType='Collection'>John F. Kennedy Library Foundation</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>WGBH Forum Network</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Writing the Inaugural Address</pbcoreTitle>
+  <pbcoreSubject subjectType='Keyword'>Politics &amp; Public Affairs</pbcoreSubject>
+  <pbcoreSubject>History</pbcoreSubject>
+  <pbcoreDescription descriptionType='Episode'>
+     Ted Sorensen, special counsel to President Kennedy, reflects on the writing
+    of President Kennedy's inaugural address with historian and former Clinton
+    speechwriter Ted Widmer. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Source Reference ID</pbcoreRelationType>
+    <pbcoreRelationIdentifier>21697</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>1/11/2009</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor>Sorensen, Theodore C.</contributor>
+    <contributorRole>Speaker2</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WGBH</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>669b848df203b529f61f6b1c18580a1f93fd5676</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>21697-2009_01_11.mp4</instantiationIdentifier>
+    <instantiationDimensions>640 x 480</instantiationDimensions>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationLocation>WGBH Forum Network (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>mp4a MPEG-4 Audio</essenceTrackEncoding>
+      <essenceTrackSamplingRate>44100</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:00:00</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier>Video Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>avc1 H.264</essenceTrackEncoding>
+      <essenceTrackPlaybackSpeed>30.00</essenceTrackPlaybackSpeed>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackFrameSize>640 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>3:2</essenceTrackAspectRatio>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:00:00</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-3f4kk94b5t__21697-2009_01_11_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-10-23</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>527</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>808</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>702</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:31:14</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>102</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:31:14</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:31:14</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-3f4kk94b5t__21697-2009_01_11.mp4</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2009-10-06</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>Base Media / Version 2</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='MiB'>370</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>568</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>Component</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>377</essenceTrackDataRate>
+      <essenceTrackFrameRate>30.000</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>640 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>160</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:31:08</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Source'>
+     /Volumes/OWC_Mercury_Elite_AL_Pro_RAID/For
+    Kevin/Video_Files/MP4_Archive/21697-2009_01_11.mp4 
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) samples per second : 44100</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) bits/channels : 16 / 2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) compression format : mp4a MPEG-4 Audio</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) duration : 5468.868 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) width/height/depth : 640 / 480 / 24</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) compression format : avc1 H.264</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) frames per second : 30.00</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) duration : 5468.900 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='SOURCE'>lecture ID</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-02-17 11:23:11</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetDate dateType='Created'>1967-12-18</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/55-76f1wc38</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>9c8c3c635496498aba6597dbc0b55d3e</pbcoreIdentifier>
+  <pbcoreTitle titleType='Label'>Flashback (reel 1 &amp; 2)</pbcoreTitle>
+  <pbcoreDescription>
+     Flashback Reel 1:??Quick Montage - NO AUDIO?United Nations session; ballet;
+    conductor; jazz; science show; stock market; typing class; KQED camera;
+    science show; Professor S.I. Hayakawa; brush painting show with KQED
+    camera??"Shakespeare of TV" (1954) with Dr. Frank C. Baxter - Intro to Henry
+    VI - Part Two with puppets. Dr. Baxter reminisces about his first experience
+    with KQED. (Segment about 7 mins.)??The French Chef with Julia Child" (WGBH
+    produced, aired on KQED 1963)?includes opening title and open of Julia
+    talking about Bruche de Noel.??Janis Joplin and band (studio-based) singing
+    Ball and Chain."??Cello player and Pablo Casals with quartet in
+    rehearsal/studio space. Goes through rehearsal process in an informal manner
+    in front of studio audience.??Fallout and Disarmament" debate (no audio) at
+    first. With Ed Teller??Hop, Skip and Dance with Dick Ford" (includes opening
+    titles and open)??Buckskin Bob" (1954) includes opening titles with Les
+    Landin (guitar and kids) - KQED's first live children's show??The Criminal
+    Man" (1959) Man questions criminal (actors) and looks at the psychological
+    profile of a criminal. (Hard to tell if this is a parody?)??Ballet dancers
+    (male and female, unknown), studio-based.??Dog puppet doing a sketch with
+    daisies.??Bob Dylan Press Conference (talks about his process of composing
+    songs, poets he "digs")??Jazz Casual" with Mel Torme and the Benny Barth
+    Trio. Produced by Ralph J. Gleason. Includes opening titles and song Ive Got
+    a World That Swings"??Jazz Casual" with B.B. King. Produced by Ralph J.
+    Gleason. ??Early computer lesson with cartoons (from "Science
+    Computer"?)??Harpist Marcella De Cray in concert, studio-based??"Take This
+    Hammer" - (1964) documentary on urban blacks with James Baldwin in San
+    Francisco produced by WNET or WGBH???Japanese Brush Painting with artist
+    Takahiko Mikami (1957) (includes opening sequence). Humorous part where
+    Mikami gets lost in the studio, as he walks ?over to critic students
+    work.??Flashback Reel 2:??The following clips are approximately 2 mins. in
+    length except where noted.??Lenox Quartet" (strings, studio-based
+    program)??The Elements" (1956) clip of host , Glenn Seaborg, discoverer of
+    plutonium in radiation lab at UC Berkeley ??Pledge pitch #1 with Glenn
+    Seaborg??Pledge pitch #2 with Glenne Seaborg (first part of pitch
+    #1)??"Griller String Quartet" (KQED and UC Berkelely
+    co-production.)??Stokely Carmichael (Black Panthers) interview (talks about
+    changes in Mississippi)??"Casey at the Bat" poem, station filler? special
+    animation (glitch in tape)??The A &amp; B of Russian ??"The Red Myth"
+    series?Includes opening titles and brief clips of archive footage and
+    reanactments of Russian revolution. ??Science program-segment on liquid air
+    ??"Sing Hi-Sing Lo" with Bash Kennett?Produced for Educational Tv Radio
+    center by KQED. Includes opening title and song on guitar. ??KQED Auction
+    (1963): Belly dancer, Phyllis Diller clowning around, Scottish bagpipe band.
+    ??"Love you Madly" with Duke Ellington ?Includes opening title and brief
+    clip. ?(Part of Ralph J. Gleason's production)??"Darius Milhaud"-Part II
+    Paris and California documentary on composer Darius Milhaud.??"Creative Arts
+    Exploration" ?Co-production with SF State University and KQED, 28 part
+    college course with Dr. Mayo Brice, Creative Arts department. This clip
+    includes demonstration of dance variations. ??Archive clip from Supervisors'
+    Chambers (Golden Gate Freeway)??Archive clip of Arthur Goldberg , American
+    statesman and jurist who served as the U.S. Secretary of Labor, Supreme
+    Court Justice and Ambassador to the United Nations press conference
+    (Vietnam) 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>History</pbcoreGenre>
+  <pbcorePublisher>
+    <publisher>KQED</publisher>
+    <publisherRole>Content creator</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='KQED AAP'>964;1305</instantiationIdentifier>
+    <instantiationDate dateType='created'>1967-12-18</instantiationDate>
+    <instantiationPhysical>Betacam Digital (Digi Beta)</instantiationPhysical>
+    <instantiationLocation>KQED: 303J</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>02:00:00</instantiationDuration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationAnnotation>AACIP Nominated/1st Priority</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-55-76f1wc38.mpeg2.mxf</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-03-26</instantiationDate>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationStandard>OP-1a</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Mezzanine</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>46</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>63</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio, 1 text</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>MPEG-2 Video</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>48</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>12</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>text</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2-1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>EIA-708</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>OC OCTk 2.4</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-55-76f1wc38.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-03-26</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>639</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>852</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio, 1 menu</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>714</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>menu</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>TimeCode</essenceTrackEncoding>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-55-76f1wc38.j2k.mxf</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-03-26</instantiationDate>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationStandard>OP-1a</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>26</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>36</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.morgan-multimedia.com/JPEG 2000/'>JPEG 2000</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>32</essenceTrackDataRate>
+      <essenceTrackFrameRate>59.940</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>2.963</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>3072</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>01:44:48</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>OpenCube MXFTk Advanced 2.4.6.0.1</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 06:40:10</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KQED</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

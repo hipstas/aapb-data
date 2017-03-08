@@ -1,0 +1,28 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreIdentifier source='WNET Archive'>MA 012_Tape #00848</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/75-47dr83ms</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>71753707925a414e8edc24e9753f23bc</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>MetroArts/Thirteen</pbcoreTitle>
+  <pbcoreDescription>Jacques Pepin at the French Culinary Institute, Tape 2</pbcoreDescription>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNET Archive'>wnet_aacip_74229</instantiationIdentifier>
+    <instantiationDate dateType='created'>1999-03-02</instantiationDate>
+    <instantiationPhysical>Betacam SP</instantiationPhysical>
+    <instantiationLocation>WNET Archive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Dub</instantiationGenerations>
+    <instantiationChannelConfiguration>Ch 1 Nats; Ch 2 Nats; Ch 3 Nats; Ch 4 Nats</instantiationChannelConfiguration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-03 01:34:51</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

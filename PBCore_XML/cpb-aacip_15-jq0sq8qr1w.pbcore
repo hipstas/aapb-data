@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Created'>2007-06-02</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-jq0sq8qr1w</pbcoreIdentifier>
+  <pbcoreIdentifier source='UOI_ID'>95cbcbcd7c27b3a3170283cf460be8ea5152dae0</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>45905.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>f6e6191cd43b48c6b3d0f179c9e1d240</pbcoreIdentifier>
+  <pbcoreTitle titleType='Collection'>John F. Kennedy Library Foundation</pbcoreTitle>
+  <pbcoreTitle titleType='Series'>WGBH Forum Network</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Rachel Carson: Mother of the Environmental Movement</pbcoreTitle>
+  <pbcoreSubject>Environment</pbcoreSubject>
+  <pbcoreDescription descriptionType='Episode'>
+     May 27, 2007 marked the centennial of Rachel Carson's birth. Her book,
+    "Silent Spring" alerted the nation to dangers facing the environment. In
+    response to the issues she raised, President Kennedy appointed a special
+    Science Advisory Committee that subsequently affirmed her findings. She is
+    now widely considered the mother of the modern environmental movement. Her
+    legacy includes the founding of the Environmental Protection Agency and the
+    current debates over global warming and organic food. This panel discussion
+    about the legacy of Rachel Carson includes Stewart Udall, Secretary of the
+    Interior in the Kennedy and Johnson administrations; Professor E.O. Wilson,
+    Pulitzer Prize-winning biologist; Linda Lear, Carson biographer; and Roland
+    Clement, former Vice President of the Audubon Society. Annick Smith, nature
+    writer and co-producer of "A River Runs Through It" moderates. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Environment</pbcoreGenre>
+  <pbcoreCoverage>
+    <coverage>JFK Library and Museum</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>2007-06-02</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor affiliation='   Former secretary of the interior'>Udall, Stewart</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WGBH</publisher>
+    <publisherRole>Distributor</publisherRole>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>95cbcbcd7c27b3a3170283cf460be8ea5152dae0</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>3825-2007_06_02.avi</instantiationIdentifier>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationLocation>WGBH Forum Network (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-jq0sq8qr1w__3825-2007_06_02_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-22</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>543</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>837</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>703</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:30:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:30:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>01:30:39</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-jq0sq8qr1w__3825-2007_06_02_.avi</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-02-08</instantiationDate>
+    <instantiationDigital>video/vnd.avi</instantiationDigital>
+    <instantiationStandard>OpenDML</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>19</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>30</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>Sony DV</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>24</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>01:30:39</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:1:1</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1536</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>01:30:39</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='SOURCE'>lecture ID</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2015-09-24 09:26:07</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

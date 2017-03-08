@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetDate dateType='Date'>1996-03-02</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-tx3513vq37</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR95203</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>49ec42c4dd4c49a5a5332bcf6ee3912a</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>
+     Raw (Partial) Footage of President Bill Clinton Campaigning in Manchester
+    (New Hampshire) 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     A portion of a speech delivered by President Bill Clinton during his
+    re-election campaign at a stop in Manchester. Clinton touches on
+    accomplishments and future goals of his administration, but focuses
+    primarily on his crime bill and its community policing component, which he
+    states contributed to a drop in crime in New Hampshire; and praises local
+    residents who participate in grassroots anti-crime efforts. In interviews
+    following the speech, several local residents describe how crime has
+    declined in their neighborhoods, and a campaign aide discusses upcoming
+    campaign stops and Clinton's re-election strategy. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Unedited</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Law Enforcement and Crime</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Clinton, Bill, 1946-</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='        '>Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR95203</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0642</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>16:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-01-26 16:43:42</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,42 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='ideastream'>ARC-370</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/78-07gqp4f8</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>ee87bf37ffcf412eb257ccfa339b4a06</pbcoreIdentifier>
+  <pbcoreTitle titleType='Title'>Martin Luther King Special/ Remembered</pbcoreTitle>
+  <pbcoreSubject source='http://authorities.loc.gov/'>King, Martin Luther, Jr., 1929-1968. Civil rights.</pbcoreSubject>
+  <pbcoreDescription>Martin Luther King Special/ Remembered. Remastered copy.</pbcoreDescription>
+  <pbcoreGenre annotation='topic'>History</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>WVIZ</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>WVIZ</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>ideastream </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ideastream'>ideastream_WVIZ_MLKSpecial</instantiationIdentifier>
+    <instantiationIdentifier source='Container Name'>FE9665</instantiationIdentifier>
+    <instantiationPhysical>DVCPRO</instantiationPhysical>
+    <instantiationLocation>Cintas, Box FE9665</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Copy</instantiationGenerations>
+    <instantiationDuration>00:29:00</instantiationDuration>
+    <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 Full Mix</instantiationChannelConfiguration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-18 00:22:02</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WVIZ/ideastream</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

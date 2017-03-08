@@ -1,0 +1,34 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='Radio Bilinge'>AC0002</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-78tb31jg</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>0b2583face2e4905b7771fc0fa098339</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Acontecer Campesino.</pbcoreTitle>
+  <pbcoreDescription>Acontecer Campesino. 2</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>KSJV</creator>
+  </pbcoreCreator>
+  <pbcorePublisher>
+    <publisher>KSJV</publisher>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>AC0002</instantiationIdentifier>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Archive Unit 7</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>00:00:30;00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationLanguage>spa</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:19:23</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

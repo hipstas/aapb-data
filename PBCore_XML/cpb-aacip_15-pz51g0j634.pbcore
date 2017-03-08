@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType/>
+  <pbcoreAssetDate dateType='Date'>1970-11-25</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>9ad2e1055ca346ccd6c1dc4ec2c55c8dc00b5a06</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>245373.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-pz51g0j634</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>090a48784fdd44778ffcb553b25508d8</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>French Chef</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Lasagne a la Francaise</pbcoreTitle>
+  <pbcoreTitle titleType='Episode Number'>208</pbcoreTitle>
+  <pbcoreTitle titleType='Title'>French Chef: Lasagne a la Francaise</pbcoreTitle>
+  <pbcoreSubject subjectType='Keyword'>France-Brittany</pbcoreSubject>
+  <pbcoreSubject>Pasta</pbcoreSubject>
+  <pbcoreSubject subjectType='Keyword'>Lasagne</pbcoreSubject>
+  <pbcoreSubject subjectType='Keyword'>Cooking-Italian</pbcoreSubject>
+  <pbcoreSubject subjectType='Keyword'>Child, Julia</pbcoreSubject>
+  <pbcoreSubject subjectType='Keyword'>Cooking-French</pbcoreSubject>
+  <pbcoreDescription descriptionType='Episode'>
+     Opens with Child exclaiming that lasagna makes a good dish for company. She
+    then describes lasagna noodles, boils them, and adds olive oil and salt. She
+    makes a point of noting that she is following the box?s instructions since
+    she is not an Italian chef. Child then makes a tomato sauce with onions,
+    fresh and canned tomatoes, and Italian seasoning as well as salt, pepper,
+    noting that this is a ?peasant dish? so she doesn?t need to chop it
+    carefully. This segment has a discussion of difference between peasant,
+    bourgeois and haute cuisine as well as a demonstration of how to blanche,
+    peel, seed, juice and slice tomatoes as well as what sort of canned tomatoes
+    to use. Child used ?Italian seasoning? but doesn?t explain what it is in it.
+    She explains noodles should be cooked to ?al dente.? She encourages viewers
+    to use leftovers in their lasagna (such as cooked chicken, spinach or
+    poached egg). She then prepares an ?inner sauce? consisting of a white sauce
+    with chicken stock, wine, and onions in it. She adds garlic to the tomato
+    sauce (acknowledging that she forgot it earlier). She assembles the lasagna
+    with a little oil in bottom of dish, then noodles, white sauce, filling
+    (spinach in first layer) then (approx. 17:30-17:50) she acknowledges she has
+    no sense of how Italians assemble it, adds cottage cheese, mushrooms,
+    chicken, more sauce and begins layering again. Pours more white sauce and
+    then tomato sauce and more cheese over top. Finally, she demonstrates how to
+    serve it Summary and select metadata for this record was submitted by Tracey
+    Deutsch. 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Episode'>
+     A great way to use yesterday?s roast, be it poultry, veal or pork. Julia?s
+    French lasagne is a delicious concoction of pasta, Italian tomato sauce,
+    saffron threads, dried orange peel, left over turkey, veal or whatever, and
+    an ?inner sauce? that?s rich and velvety. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Food and Cooking</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tracking Number</pbcoreRelationType>
+    <pbcoreRelationIdentifier>23343</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>11/25/1970</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor>Child, Julia</contributor>
+    <contributorRole>Host2</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Lockwood, Ruth</contributor>
+    <contributorRole>Producer2</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Mahard, Frances</contributor>
+    <contributorRole>Other (see note)</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Morris, John</contributor>
+    <contributorRole>Other (see note)</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>
+       Posted with permission from the Julia Child Foundation for Gastronomy and
+      the Culinary Arts 
+    </publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:,Rights:,Rights Credit:WGBH Educational Foundation,Rights
+      Type:All,Rights Coverage:,Rights Holder: 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>9ad2e1055ca346ccd6c1dc4ec2c55c8dc00b5a06</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>Barcode23343.mov</instantiationIdentifier>
+    <instantiationDimensions>720 x 486</instantiationDimensions>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>NTSC</instantiationStandard>
+    <instantiationLocation>Archives (department)</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationDuration>00:28:38;00</instantiationDuration>
+    <instantiationColors>Color</instantiationColors>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier>Video Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>v210 Apple FCP Uncompressed 10-bit 4:2:2</essenceTrackEncoding>
+      <essenceTrackPlaybackSpeed>29.97</essenceTrackPlaybackSpeed>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>1.48:</essenceTrackAspectRatio>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:00:00</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier>Audio Track 1</essenceTrackIdentifier>
+      <essenceTrackEncoding>sowt 16-bit Little Endian</essenceTrackEncoding>
+      <essenceTrackSamplingRate>48000</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+      <essenceTrackDuration>00:00:00</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-pz51g0j634__Barcode23343_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-11-28</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>166</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>812</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://developers.videolan.org/x264.html'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>707</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>101</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-pz51g0j634__Barcode23343.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-09-10</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>45</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>225</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>v210</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>224</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>10</essenceTrackBitDepth>
+      <essenceTrackFrameSize>704 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.apple.com/quicktime/download/standalone.html'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1536</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:28:37</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) frames per second : 29.97</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) bits/channels : 16 / 2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) duration : 1717.484 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Source'>/Volumes/bigDisks/Mellon_Digitizing/To_be_watermarked/Barcode23343.mov</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) compression format : v210 Apple FCP Uncompressed 10-bit 4:2:2</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) compression format : sowt 16-bit Little Endian</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) duration : 1717.482 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) start time : 0.000 seconds</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Movie Quality'>(Video Track 1) width/height/depth : 720 / 486 / 24</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Audio Quality2'>(Audio Track 1) samples per second : 48000</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Outside URL'>http://openvault.wgbh.org/catalog/openvault:2761</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-02-17 12:22:39</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

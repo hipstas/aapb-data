@@ -1,0 +1,32 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-47dr80jc</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>23d0b31a69ae4f81af3d8e84b957265d</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>McArthur Fellow-Hugo</pbcoreTitle>
+  <pbcoreDescription>Interview-Hugo Re: McArthur Fellow</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>Radio Bilingue</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>MC0004</instantiationIdentifier>
+    <instantiationDate dateType='created'>1994-06-10</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Unit 7</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>00:00:30;00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation annotationType='Alternate Generation'>Master:audio</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:21:52</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

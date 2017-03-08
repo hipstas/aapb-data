@@ -1,0 +1,137 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType/>
+  <pbcoreIdentifier source='KQED'>36-648-6;37322</pbcoreIdentifier>
+  <pbcoreIdentifier source='File Name'>cpb-aacip-55-17crk4d4</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/55-j678s4k399</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>434679978954402592323fad01f9dc04</pbcoreIdentifier>
+  <pbcoreTitle titleType='Title'>KQED Current Affairs Archive (reel 48)</pbcoreTitle>
+  <pbcoreDescription>
+     Astronauts, women; Historic airplanes; Alaskan pipeline; French Prime
+    Minister Barre, South Africa Prime Minister Peter Botha; Drought; Earthquake
+    prediction; Golden Hinde; Edward Norton; Rudolph Nureyev; Ronald Reagan
+    announcing tax rebate; Sound truck incident (1968); Mark Twain stills;
+    Vietnam War including training camp 
+  </pbcoreDescription>
+  <pbcoreCreator>
+    <creator>KQED</creator>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='KQED'>36-648-6;37322</instantiationIdentifier>
+    <instantiationIdentifier source='File Name'>cpb-aacip-55-17crk4d4</instantiationIdentifier>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationLocation>KQED</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationDuration>1:00:00</instantiationDuration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='GUID'>cpb-aacip-55-17crk4d4</instantiationIdentifier>
+    <instantiationIdentifier source='KQED'>36-648-6;37322</instantiationIdentifier>
+    <instantiationPhysical>1 inch videotape</instantiationPhysical>
+    <instantiationLocation>218J</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationDuration>1:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-55-j678s4k399__cpb-aacip-55-17crk4d4.mpeg2_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-10-09</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>261</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>838</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://developers.videolan.org/x264.html' source='mediainfo'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>705</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:43:34</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:43:34</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:43:34</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-55-j678s4k399__cpb-aacip-55-17crk4d4.mpeg2.mxf</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-08-27</instantiationDate>
+    <instantiationDigital>application/mxf</instantiationDigital>
+    <instantiationStandard>OP-1a</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Mezzanine</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>19</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>63</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>4 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>MPEG-2 Video</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>50</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>720 x 486</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:43:34</essenceTrackDuration>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>12</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:43:34</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MXF TC</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>SMPTE TC</essenceTrackEncoding>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>OC OCTk 2.1</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation>Film Transfer Reel 9. (1?? recorded 1985-07-09)</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-07-25 14:30:49</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KQED</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

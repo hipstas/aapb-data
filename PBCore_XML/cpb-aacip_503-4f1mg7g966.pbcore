@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Episode</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Created'>1999-11-03</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-4f1mg7g966</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR05521</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>f9220912b6c84461b5cdca9b3e883092</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>The Exchange</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Interview with Al Gore</pbcoreTitle>
+  <pbcoreDescription descriptionType='Episode'>
+     In response to host and caller questions, Vice President Al Gore, candidate
+    for the 2000 Democratic presidential nomination, discusses his goals for the
+    presidency and issues including education reform and federal funding;
+    climate change and environmental issues; reducing the national debt, his
+    child health insurance proposal; policy differences with campaign rival Bill
+    Bradley, his family's history and campaign involvement; military spending,
+    foreign policy, national security, slowing population growth, and his
+    electability vs. Republican candidate George W. Bush. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Education</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Talk Show</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Global Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Call-in</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Environment</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Gore, Al, 1948-</contributor>
+    <contributorRole>Interviewee</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Kaufman, Jill</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='                '>Copyright Holder</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR05521</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0511</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>1:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-03-01 09:35:37</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

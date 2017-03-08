@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='MARS Asset Record ID'>A_JPI1GPZMIDYQD3O</pbcoreIdentifier>
+  <pbcoreIdentifier source='MARS Source Creation Order'>254688</pbcoreIdentifier>
+  <pbcoreIdentifier source='WGBH Old File Number'>P05705,W01953</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-24jm6cvp</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>a6e663030c484f4c96487129383430ae</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Morning Pro Musica</pbcoreTitle>
+  <pbcoreTitle titleType='Episode'>Richmond Performance Series</pbcoreTitle>
+  <pbcoreDescription>
+     Morning pro musica Richard Knisely, substitute host Pery Carter, engineer
+    2/22/1988 Live on pro musica a performance by members of the Richmond
+    Performance Series: Karol Bennett, soprano Nancy Bracken, violin Mark
+    Ludwig, viola David Finch, cello Neil Anderson, guitar Tom Martin, clarinet
+    Program: Rebecca Clarke: Prelude, Allegro and Pastorale for viola and
+    clarinet Britten: Englis Folksong Arrangements for soprano and guitar
+    Mozart: Flute Quartet in D, K.285 Phil Verlieb: Five Haiku for soprano and
+    guiar 7.5 ips stereo 10 reel tails out ~60 min. Dolby Morning Pro Musica,
+    Artist / Richmond Performance Series, 88-0154-02-16-001 
+  </pbcoreDescription>
+  <pbcoreDescription descriptionType='Description'>
+     "Morning Pro Musica is a show featuring an innovative mixture of recorded
+    music, live performances, interviews, news, weather and host Robert J.
+    Kurtsema's signature style." 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Music</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Radio</creator>
+    <creatorRole>Production Unit</creatorRole>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WGBH Item ID'>88-0154-02-22-001</instantiationIdentifier>
+    <instantiationIdentifier source='WGBH Barcode'>0000107673</instantiationIdentifier>
+    <instantiationDate dateType='created'>1988-02-22</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>HOLDINGS_LOCATION = Vault. Vault-ML009282-104-1-7-</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationTracks>Audio: tracks</instantiationTracks>
+    <instantiationChannelConfiguration>Half Track Stereo</instantiationChannelConfiguration>
+    <instantiationAnnotation annotationType='Alternate Generation'>Radio program (Master)</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-24jm6cvp.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-12-13</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>77</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:56:10</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-24jm6cvp.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2013-12-13</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:56:09</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-22 16:19:48</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

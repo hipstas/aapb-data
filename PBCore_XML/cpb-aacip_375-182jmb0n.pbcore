@@ -1,0 +1,36 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='Radio Bilinge'>RB0002</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-182jmb0n</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>1c8b79ffebe747bcb78024d855d7feee</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>Public Radio</pbcoreTitle>
+  <pbcoreDescription>
+     Grabacion de evento en Orange Cove- Handwritten note with description of
+    contrant says: con Mariachi de la Tierra- Hugo introduces Lupe Ortiz- Lupe
+    speaks about public radio and when FM 91.5 started. Hugo talks about the
+    marathon in Clovis for fundraiser and introduces Carmen Moreno. Carmen sings
+    several songs 
+  </pbcoreDescription>
+  <pbcorePublisher>
+    <publisher>Radio Bilingue</publisher>
+  </pbcorePublisher>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>RB0002</instantiationIdentifier>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Unit 8</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>00:01:00;00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationLanguage>spa</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:22:42</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

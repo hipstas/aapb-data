@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetDate dateType='Date'>1972-02-11</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/500-8g8fk77x</pbcoreIdentifier>
+  <pbcoreIdentifier source='National Association of Educational Broadcasters'>72-Sp. 1</pbcoreIdentifier>
+  <pbcoreIdentifier source='University of Maryland'>4860</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>5efa6b98bc52455792a62deef5e19c89</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>American Conservatives Confront &apos;72 (Reel 1)</pbcoreTitle>
+  <pbcoreDescription descriptionType='Program'>
+     American Conservative Confront 72, a production of the Southern Educational
+    Communications Association. The moderator is William F. Buckley, Jr., and
+    the participants in the panel discussion include well-known figures such as
+    Clare Boothe Luce, Senator James Buckley, Professor Milton Friedman, and
+    Governor Ronald Reagan. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Public Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreContributor>
+    <contributor>Reagan, Ronald</contributor>
+    <contributorRole>Panelist</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Friedman, Milton</contributor>
+    <contributorRole>Panelist</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Luce, Clare Booth</contributor>
+    <contributorRole>Panelist</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Buckley, William F. (William Frank), Jr., 1925-2008</contributor>
+    <contributorRole>Moderator</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Buckley, James</contributor>
+    <contributorRole>Panelist</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='National Association of Educational Broadcasters'>72-Sp. 1</instantiationIdentifier>
+    <instantiationIdentifier source='University of Maryland'>4860</instantiationIdentifier>
+    <instantiationDimensions>7 inches</instantiationDimensions>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Hornbake Special Collections</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationDuration>00:30:00?</instantiationDuration>
+    <instantiationChannelConfiguration>Full Track Mono</instantiationChannelConfiguration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-500-8g8fk77x.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-27</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>1</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:30:54</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-500-8g8fk77x.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-27</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>42</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:30:54</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-08-08 14:04:50</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>University of Maryland</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

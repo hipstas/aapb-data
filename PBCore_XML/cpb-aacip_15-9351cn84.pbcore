@@ -1,0 +1,37 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='MARS Asset Record ID'>A_8VC5F0BEAPW802P</pbcoreIdentifier>
+  <pbcoreIdentifier source='MARS Source Creation Order'>16552</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-9351cn84</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>bc1080236fcd49fd8b1b00039de0ee40</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Boston Symphony Chamber Players</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>The Double Reed</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>Media Library and Archives</creator>
+    <creatorRole>Production Unit</creatorRole>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WGBH Barcode'>27305</instantiationIdentifier>
+    <instantiationIdentifier source='WGBH File Number'>AB-00099A</instantiationIdentifier>
+    <instantiationDate dateType='created'>1970-10-14</instantiationDate>
+    <instantiationPhysical>Betacam</instantiationPhysical>
+    <instantiationLocation>HOLDINGS_LOCATION = Vault. Vault-ML007120-086-2-4-</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master: preservation</instantiationGenerations>
+    <instantiationDuration>00:00:30</instantiationDuration>
+    <instantiationTracks>Audio: tracks</instantiationTracks>
+    <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 MOS; Ch 3 Full Mix; Ch 4 MOS</instantiationChannelConfiguration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationAnnotation annotationType='Alternate Generation'>Preservation Master</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-23 05:06:10</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

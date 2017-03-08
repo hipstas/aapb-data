@@ -1,0 +1,155 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreIdentifier source='unknown'>ARC-DBS-1110</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>13CL-0002151</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>ad271fec-b481-4e0c-a0cb-6165768e0872</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>netnola_dydn_15_doc</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>e746e943-91fa-44ae-b22b-74bf0edb595c</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>DYDN 000115</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>115</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>1e6e6a16-0586-4826-8e64-3573188272d5</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/62-gx44q7r441</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>9c4beebeeebc445cae6aa0ed4be1361e</pbcoreIdentifier>
+  <pbcoreTitle titleType='Title'>Dynamics of Desegregation</pbcoreTitle>
+  <pbcoreTitle titleType='Title'>With Some Deliberate Speed</pbcoreTitle>
+  <pbcoreDescription>
+     Dr. Pettigrew discusses what he feels are the five distinct stages of the
+    desegregation process since the Supreme Court decision of 1954 (school
+    integration). He comments on the Little Rock incidents. The last phase of
+    Pettigrews stages of desegregation is, he hopes, the final the death of
+    segregation. Guest Dr. Martin Luther King adds to the hope that segregation
+    is breaking up by the very process of modern times, aided by the increased
+    determination of the Negro himself. 
+  </pbcoreDescription>
+  <pbcoreRelation>
+    <pbcoreRelationType>Is Part Of</pbcoreRelationType>
+    <pbcoreRelationIdentifier>DYDN</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='unknown'>ARC-DBS-1110</instantiationIdentifier>
+    <instantiationIdentifier source='unknown'>13CL-0002151</instantiationIdentifier>
+    <instantiationIdentifier source='unknown'>ad271fec-b481-4e0c-a0cb-6165768e0872</instantiationIdentifier>
+    <instantiationPhysical>Betacam Digital (Digi Beta)</instantiationPhysical>
+    <instantiationLocation>Archive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Moving image/Preservation master</instantiationGenerations>
+    <instantiationDuration>00:29:07</instantiationDuration>
+    <instantiationColors>b&amp;w</instantiationColors>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNET Archive'>netnola_dydn_15_doc</instantiationIdentifier>
+    <instantiationIdentifier source='WNET Archive'>e746e943-91fa-44ae-b22b-74bf0edb595c</instantiationIdentifier>
+    <instantiationDigital>Video/quicktime</instantiationDigital>
+    <instantiationLocation>Archive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations/>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-62-gx44q7r441__netnola_dydn_15_doc_.h264.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-17</instantiationDate>
+    <instantiationDigital>video/mp4</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>171</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>814</instantiationDataRate>
+    <instantiationTracks>1 video, 1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://developers.videolan.org/x264.html' source='mediainfo'>AVC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>709</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>480 x 360</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:0</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>2</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>AAC LC</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>101</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>3</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-62-gx44q7r441__netnola_dydn_15_doc.mov</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2009-11-25</instantiationDate>
+    <instantiationDigital>video/quicktime</instantiationDigital>
+    <instantiationStandard>QuickTime</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationFileSize unitsOfMeasure='GiB'>12</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Mbps'>60</instantiationDataRate>
+    <instantiationTracks>1 video, 2 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>video</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>1</essenceTrackIdentifier>
+      <essenceTrackStandard>NTSC</essenceTrackStandard>
+      <essenceTrackEncoding source='mediainfo'>DV</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Mbps'>49</essenceTrackDataRate>
+      <essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+      <essenceTrackBitDepth>8</essenceTrackBitDepth>
+      <essenceTrackFrameSize>704 x 480</essenceTrackFrameSize>
+      <essenceTrackAspectRatio>4:3</essenceTrackAspectRatio>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+      <essenceTrackAnnotation annotationType='colorspace'>YUV</essenceTrackAnnotation>
+      <essenceTrackAnnotation annotationType='subsampling'>4:2:2</essenceTrackAnnotation>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>4</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://www.apple.com/quicktime/download/standalone.html' source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>5</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://www.apple.com/quicktime/download/standalone.html' source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1152</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationEssenceTrack>
+      <essenceTrackType>other</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>6</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>QuickTime TC</essenceTrackEncoding>
+      <essenceTrackDuration>00:29:23</essenceTrackDuration>
+      <essenceTrackLanguage>eng</essenceTrackLanguage>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Apple QuickTime</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-07-09 14:09:32</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

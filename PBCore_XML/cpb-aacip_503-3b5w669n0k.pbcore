@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1995-07-31</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-3b5w669n0k</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR95188</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>ce689e5f92794e9aa569ac8751b2e0e5</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>
+     President Bill Clinton Speaks at the National Governors Association
+    Conference in Burlington (Vermont) 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     Governor of Vermont, Howard Dean introduces President Bill Clinton speaks
+    at the 1995 Conference of the National Governors Association in Burlington,
+    Vermont. President Clinton discusses his strategy to achieve presidential
+    goals, while specifically addressing the importance of bipartisanship and
+    welfare (through 36:33). The second half of the program is a Q&amp;A
+    session, presumably with the governors attending the event, although their
+    names are not provided. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Clinton, Bill, 1946-</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Dean, Howard, 1948-</contributor>
+    <contributorRole>Host</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='  '>Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR95188</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0627</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>1:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-02-02 13:23:30</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

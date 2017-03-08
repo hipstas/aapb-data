@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Created'>1987-10-16</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/211-8279d4q1</pbcoreIdentifier>
+  <pbcoreIdentifier source='VPR'>P13684</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>b56327b1648144d6929f4b7f72f88851</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>
+     The Festival Winds and New York Trumpet Ensemble Perform Live at the
+    Vermont Mozart Festival Winter Series, Reel 1 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     John Fitzhue, president of the 1987 Vermont Mozart Festival, introduces The
+    Festival Winds and the New York Trumpet Ensemble playing at the Winter
+    Series. This is a program of contrasting pieces, and the derivation of the
+    program has to do with the hope that you would actually be hearing
+    Stravinsky's Octet, set in 1924. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Unedited</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Music</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Performance</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>Stravinsky, Igor, 1882-1971</creator>
+    <creatorRole>Composer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>New York Trumpet Ensemble</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor affiliation='  '>Festival Winds</contributor>
+    <contributorRole>Performer</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='VPR'>P13684</instantiationIdentifier>
+    <instantiationDate dateType='created'>1987-10-16</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Patchen Road - Box 69</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>01:00:00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track Mono</instantiationChannelConfiguration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-211-8279d4q1.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-09</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>77</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:56:29</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Fraunhofer IIS MP3 v04.01.02 (high quality)</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-211-8279d4q1.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-04-09</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4777</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:56:29</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-03-22 14:20:33</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Vermont Public Radio - WVPR</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1963-08-28</pbcoreAssetDate>
+  <pbcoreIdentifier source='UOI_ID'>fc3485c782a859380a399607cf5a6b9a449bc158</pbcoreIdentifier>
+  <pbcoreIdentifier source='IMPORT_ID'>159277.0</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/15-97940t7x</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>e8802206217d4fd596d872bc67a89644</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>March on Washington</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>I Have a Dream Speech: Martin Luther King, Jr.</pbcoreTitle>
+  <pbcoreTitle titleType='Raw Footage'>Part 17 of 17</pbcoreTitle>
+  <pbcoreSubject>Civil Rights</pbcoreSubject>
+  <pbcoreSubject>civil rights leaders</pbcoreSubject>
+  <pbcoreSubject subjectType='Personal'>King, Martin Luther, Jr.</pbcoreSubject>
+  <pbcoreSubject source='PBS PODS'>Demonstrations</pbcoreSubject>
+  <pbcoreSubject subjectType='Subject Heading'>Speeches, addresses, etc., American</pbcoreSubject>
+  <pbcoreDescription descriptionType='Description'>
+     The Educational Radio Network / ERN's coverage of the March on Washington
+    for Jobs and Freedom Martin Luther King, Jr. introduction and speech: ?I
+    have a dream...? 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='genre'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Social Issues</pbcoreGenre>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tracking Number</pbcoreRelationType>
+    <pbcoreRelationIdentifier>111486</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreRelation>
+    <pbcoreRelationType source='SOURCE'>Tape</pbcoreRelationType>
+    <pbcoreRelationIdentifier>63-0027-08-28-017</pbcoreRelationIdentifier>
+  </pbcoreRelation>
+  <pbcoreCoverage>
+    <coverage>Washington (D.C.)</coverage>
+    <coverageType>Spatial</coverageType>
+  </pbcoreCoverage>
+  <pbcoreCoverage>
+    <coverage>08/28/1963</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreContributor>
+    <contributor>Saba</contributor>
+    <contributorRole>Speaker3</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>WGBH Educational Foundation</publisher>
+    <publisherRole>Publisher</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Rights Note:,Rights Type:,Rights Credit:,Rights Holder:WGBH Educational
+      Foundation 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='ArtesiaDAM UOI_ID'>fc3485c782a859380a399607cf5a6b9a449bc158</instantiationIdentifier>
+    <instantiationIdentifier source='Original file name'>barcode111486.wav</instantiationIdentifier>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>Archives (department)</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationTimeStart>00:00:00</instantiationTimeStart>
+    <instantiationDuration>00:18:52</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+    <instantiationAnnotation>Original For:1/4 inch audiotape</instantiationAnnotation>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-97940t7x__111486_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2009-10-31</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>311</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>2304</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>2304</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:18:52</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-97940t7x__111486_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-02-19</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>17</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>128</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:18:52</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-97940t7x__111486_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2009-10-31</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>311</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>2304</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>2304</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>00:18:52</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-15-97940t7x__111486_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-02-19</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>17</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>128</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>128</essenceTrackDataRate>
+      <essenceTrackSamplingRate>48.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:18:52</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Outside URL'>http://openvault.wgbh.org/catalog/openvault:4366</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-01-13 14:07:02</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WGBH</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

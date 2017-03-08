@@ -1,0 +1,181 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='WYSO FM 91.3 Public Radio; CONTENTdm Version 5.1.0; http://www.contentdm.com'>WYSO_UN_8</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/27-3j3901zq4r</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>1c6bef2dbfdf41a28a8aaad15347c816</pbcoreIdentifier>
+  <pbcoreTitle titleType='Title'>Martin Luther King, Jr. Speaks at Antioch College, Yellow Springs, Ohio</pbcoreTitle>
+  <pbcoreSubject source='PBS PODS'>African Americans</pbcoreSubject>
+  <pbcoreSubject>Civil Rights</pbcoreSubject>
+  <pbcoreDescription>
+     Martin Luther King gave the commencement address at Antioch College in
+    Yellow Springs, Ohio on June 19, 1965. His wife, Coretta Scott King,
+    attended Antioch College in 1945 and she attended this event. [Note:
+    paraphrase of speech] He talks about being between two ages the old and new
+    orders. He talks about the challenges in this new age countries are all
+    intertwined and can no longer exist in isolation all life is interrelated.
+    Poverty is a global problem and we now have the resources and techniques to
+    get rid of poverty in this county and the world. The real question is why
+    does poverty exist? The poor is invisible in this Nation we should never
+    allow this remove segregation and racial injustice. The society will need to
+    develop massive retraining programs and create jobs it is dangerous to have
+    a large segment of the population that has no stake in it. These are the
+    people who will not solve problems by means of non-violence. Racial
+    segregation is morally wrong and sinful although the law may not change the
+    hearts of men it does change the habits of men and then the hearts will
+    follow. We must develop action programs to solve the problem of racial
+    injustice and be willing to engage in the movements to break down
+    discrimination in both the North and the South. We are challenged more than
+    ever before to end war and bloodshed in Vietnam. The alternative is
+    disarmament. We must fight communist expansion through economic and
+    political programs that will convince the world that only in a democratic
+    society can one achieve prosperity. The war in Vietnam must be stopped peace
+    and democracy must become realities throughout the world. In summary,
+    mankinds survival is dependent on our ability to solve the problems of
+    racial injustice, poverty and war to be participants in making brotherhood
+    and justice a reality in our age. He quotes the words of the first president
+    of Antioch College be ashamed to die until you have gained [won] some
+    victory for humanity. He suggests the world needs to create a new
+    organization - the International Association for the Advancement of Creative
+    Maladjustment he has faith in America we will win our freedom we shall
+    overcome we will achieve dignity and brotherhood "Free at last! Free at
+    last! Thank God Almighty, we are free at last!". A Baptist minister and
+    prominent civil rights leader, Martin Luther King, Jr. led a number of
+    demonstrations including the Montgomery Bus Boycott in Montgomery, Alabama
+    in 1955 and the March on Washington, D.C. in 1963 where he gave his I Have a
+    Dream speech. In 1957, he co-founded the Southern Christian Leadership
+    Conference that advocated non-violent civil disobedience to protest for
+    civil rights. Before his untimely death, he worked to end poverty and to end
+    the Vietnam War. On April 4, 1968, Martin Luther King, Jr. was assassinated
+    in Memphis, Tennessee. 
+  </pbcoreDescription>
+  <pbcoreCoverage>
+    <coverage>Yellow Springs, Ohio</coverage>
+    <coverageType>Temporal</coverageType>
+  </pbcoreCoverage>
+  <pbcoreAudienceLevel>General</pbcoreAudienceLevel>
+  <pbcoreContributor>
+    <contributor>WYSO FM 91.3 Public Radio</contributor>
+    <contributorRole>producing station</contributorRole>
+  </pbcoreContributor>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WYSO FM 91.3 Public Radio; CONTENTdm Version 5.1.0; http://www.contentdm.com'>WYSO_UN_8</instantiationIdentifier>
+    <instantiationDigital>Audio/wav</instantiationDigital>
+    <instantiationLocation>WYSO FM 91.3 Public Radio</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationDataRate>281</instantiationDataRate>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackSamplingRate>96</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+    </instantiationEssenceTrack>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='unknown'>UN 8</instantiationIdentifier>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>WYSO Archives Room</instantiationLocation>
+    <instantiationMediaType>other</instantiationMediaType>
+    <instantiationGenerations>Audio/Radio program (Master)</instantiationGenerations>
+    <instantiationDuration>0:53:45</instantiationDuration>
+    <instantiationLanguage>eng</instantiationLanguage>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-27-3j3901zq4r__WYSO_UN_8_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-05</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>101</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:13:41</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>LAME3.98.2</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-27-3j3901zq4r__WYSO_UN_8_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-07-04</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4608</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://www.microsoft.com/windows/' source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:13:34</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Owner</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-27-3j3901zq4r__WYSO_UN_8_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-05</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>101</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>01:13:41</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>LAME3.98.2</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-27-3j3901zq4r__WYSO_UN_8_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-07-04</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='GiB'>2</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>4608</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding ref='http://www.microsoft.com/windows/' source='mediainfo'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>4608</essenceTrackDataRate>
+      <essenceTrackSamplingRate>96.0 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>24</essenceTrackBitDepth>
+      <essenceTrackDuration>01:13:34</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>Owner</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-07-31 14:05:20</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>WYSO-FM (WYSO Public Radio)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1999-02-03</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-r49g44jg1f</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR95282</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>8dffc3ee3a5342668e844009f7bfef58</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>Al Gore Speech at PC Connection Headquarters in Merrimack</pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     Vice president and Democratic presidential candidate Al Gore gives a speech
+    at PC Connection Headquarters on economic development. Gore discusses
+    high-tech sector job growth in N.H. and the need to keep pace with rapid
+    technological advances; the need to tackle entitlement reform now that the
+    economy is stable; investing in education, and remaining competitive in the
+    global marketplace. Following the speech Gore responds to a question about
+    how candidate Dick Gephardt's expected withdrawal from the race would impact
+    his campaign. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Unedited</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Economics</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Education</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Business</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Technology</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Employment</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Gore, Al, 1948-</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='            '>Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR95282</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0718</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>23:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-01-26 15:28:28</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

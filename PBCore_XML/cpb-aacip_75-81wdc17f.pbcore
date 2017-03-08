@@ -1,0 +1,28 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Program</pbcoreAssetType>
+  <pbcoreIdentifier source='WNET Archive'>ARC-UMAT-117</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/75-81wdc17f</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>4a94ba677d154ad8ba7e479bb87f09a8</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>Martin Luther King: The Dream</pbcoreTitle>
+  <pbcoreDescription>No description available</pbcoreDescription>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='WNET Archive'>wnet_aacip_3233</instantiationIdentifier>
+    <instantiationDate dateType='issued'>1986-01-05</instantiationDate>
+    <instantiationPhysical>3/4 inch videotape: U-matic</instantiationPhysical>
+    <instantiationLocation>WNET Archive</instantiationLocation>
+    <instantiationMediaType>Moving Image</instantiationMediaType>
+    <instantiationGenerations>Master: backup</instantiationGenerations>
+    <instantiationChannelConfiguration>Ch 1 Full Mix; Ch 2 Full Mix</instantiationChannelConfiguration>
+    <instantiationAlternativeModes>N</instantiationAlternativeModes>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 16:47:37</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Thirteen - New York Public Media (WNET)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

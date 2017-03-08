@@ -1,0 +1,33 @@
+<pbcoreDescriptionDocument xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd' xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreIdentifier source='Radio Bilinge'>MF1001</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/375-74qjq9z7</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>bed3c4dad95c4071b9e35832c13c8088</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>Mariachi Festival</pbcoreTitle>
+  <pbcoreSubject source='PBS'>MUSIC</pbcoreSubject>
+  <pbcoreDescription>7th hour. Mariachi Vargas</pbcoreDescription>
+  <pbcoreCreator>
+    <creator>Radio Bilingue</creator>
+  </pbcoreCreator>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Radio Bilinge'>MF1001</instantiationIdentifier>
+    <instantiationDate dateType='created'>1990-03-01</instantiationDate>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>Unit 2</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: audio</instantiationGenerations>
+    <instantiationDuration>00:01:00;00?</instantiationDuration>
+    <instantiationChannelConfiguration>Half Track; Ch. 1 mono, Ch. 2 MOS. Exported Ch. 1</instantiationChannelConfiguration>
+    <instantiationLanguage>spa</instantiationLanguage>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2013-06-02 17:19:11</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Radio Bilingue</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

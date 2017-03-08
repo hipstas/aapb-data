@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType/>
+  <pbcoreIdentifier source='MPR File Name'>file_metadata_10258568</pbcoreIdentifier>
+  <pbcoreIdentifier source='MPR System ID'>10258569</pbcoreIdentifier>
+  <pbcoreIdentifier source='MPR System ID'>1972-10-30_Gloria_Steinem_drl_AAPP31_1644.L</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/43-8w3804xv6k</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>92be8f4b8e284c9cbc1335cf3b8e5b34</pbcoreIdentifier>
+  <pbcoreTitle titleType='Series'>MPR News Feature</pbcoreTitle>
+  <pbcoreTitle titleType='Program'>Gloria Steinem talks at DFL forum on women&apos;s changing role</pbcoreTitle>
+  <pbcoreSubject subjectType='IPTC Code'>Social Issues : 14000000-:General : 14025000-:Social conditions : 14025001</pbcoreSubject>
+  <pbcoreDescription descriptionType='Description'>
+     Gloria Steinem speaks at a DFL forum on the changing role for women. She's
+    interested in what's going on in small cities and towns. Her biggest concern
+    is the large amounts of mail that she receives from women asking for help.
+    **note** sound quality is poor [DMA import part of AAPP grant] 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='genre'>News</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>News</pbcoreGenre>
+  <pbcoreContributor>
+    <contributor>Steinem, Gloria Marie(Interviewee); Minnesota Public Radio(Reporter)</contributor>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>Minnesota Public Radio</publisher>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>
+       Unspecified (Content status: Edited program); Unspecified (Created or
+      licensed from third party: No); Unspecified (Any explicit usage
+      restrictions: Don't know); Unspecified (Any distribution restrictions:
+      Yes); Unspecified (Created by station only: Yes); Unspecified (Is part of
+      content in public domain: No); Unspecified (Produced or funded by third
+      party: No) 
+    </rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='MPR File Name'>file_metadata_10258568</instantiationIdentifier>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>Gary Comer Archive; MPR Archive</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationDuration>0:05:17</instantiationDuration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-43-8w3804xv6k__10258569_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2009-11-10</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>27</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>708</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>706</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:05:16</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-43-8w3804xv6k__10258569_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-04</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>7</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>1 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:05:17</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>LAME3.98.2</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation>
+     Digitization of analog reel done as part of AAPP (American Archive Pilot
+    Project) grant in Fall 2009. 
+  </pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-06-13 10:08:29</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>KSJN-FM (Minnesota Public Radio)</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

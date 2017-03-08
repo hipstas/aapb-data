@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreIdentifier source='Filename'>PRA_AAPP_BB0632_A_conversation_with_James_Baldwin</pbcoreIdentifier>
+  <pbcoreIdentifier source='unknown'>BB0632</pbcoreIdentifier>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/28-8s4jm23q52</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>1183b7f2823e4202905963c3f1e2695a</pbcoreIdentifier>
+  <pbcoreTitle titleType='Program'>A conversation with James Baldwin</pbcoreTitle>
+  <pbcoreSubject subjectType='Personal'>Baldwin, James, 1924-1987</pbcoreSubject>
+  <pbcoreSubject>Thompson, Elsa Knight</pbcoreSubject>
+  <pbcoreSubject>Leonard, John, 1939-2008</pbcoreSubject>
+  <pbcoreSubject>African Americans--Civil rights--History</pbcoreSubject>
+  <pbcoreDescription>
+     Elsa Knight Thompson and John Leonard, Director of literature and drama,
+    talk with the author of ?The fire next time? and ?Nobody knows my name?
+    about both literary and political matters. Among other things, Baldwin
+    discusses what comes after Birmingham in the civil rights movement, and why
+    the critics attacked his novel ?Another country.? 
+  </pbcoreDescription>
+  <pbcoreGenre annotation='genre'>Talk Show</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Social Issues</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Literature</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Race and Ethnicity</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Public Affairs</pbcoreGenre>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Pacifica Radio Archives'>2246_D01</instantiationIdentifier>
+    <instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+    <instantiationLocation>PRA Vault Shelves</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='Filename'>PRA_AAPP_BB0632_A_conversation_with_James_Baldwin</instantiationIdentifier>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationLocation>Western Digital HD3InHouse</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master: preservation</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MB'>417</instantiationFileSize>
+    <instantiationDuration>0:39:23</instantiationDuration>
+    <instantiationExtension>
+      <extensionWrap>
+        <extensionElement>AACIP Record Nomination Status</extensionElement>
+        <extensionValue>Nominated/1st Priority</extensionValue>
+        <extensionAuthorityUsed>AACIP</extensionAuthorityUsed>
+      </extensionWrap>
+    </instantiationExtension>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-28-8s4jm23q52__PRA_AAPP_BB0632_A_conversation_with_James_Baldwin_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-03-14</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>398</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>1411</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1411</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:39:23</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-28-8s4jm23q52__PRA_AAPP_BB0632_A_conversation_with_James_Baldwin_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-05</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>54</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:39:26</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>TEFNRTMuOTguMlVVVVVVVVVVVQE=</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-28-8s4jm23q52__PRA_AAPP_BB0632_A_conversation_with_James_Baldwin_.wav</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-03-14</instantiationDate>
+    <instantiationDigital>audio/vnd.wave</instantiationDigital>
+    <instantiationStandard>Wave</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Preservation Master</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>398</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>1411</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo' ref='http://www.microsoft.com/windows/'>PCM</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>1411</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackBitDepth>16</essenceTrackBitDepth>
+      <essenceTrackDuration>00:39:23</essenceTrackDuration>
+    </instantiationEssenceTrack>
+  </pbcoreInstantiation>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='mediainfo'>cpb-aacip-28-8s4jm23q52__PRA_AAPP_BB0632_A_conversation_with_James_Baldwin_.mp3</instantiationIdentifier>
+    <instantiationDate dateType='encoded'>2014-09-05</instantiationDate>
+    <instantiationDigital>audio/mpeg</instantiationDigital>
+    <instantiationStandard>MPEG Audio</instantiationStandard>
+    <instantiationLocation>N/A</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Proxy</instantiationGenerations>
+    <instantiationFileSize unitsOfMeasure='MiB'>54</instantiationFileSize>
+    <instantiationDataRate unitsOfMeasure='Kbps'>192</instantiationDataRate>
+    <instantiationTracks>1 audio</instantiationTracks>
+    <instantiationChannelConfiguration>2 channel</instantiationChannelConfiguration>
+    <instantiationEssenceTrack>
+      <essenceTrackType>audio</essenceTrackType>
+      <essenceTrackIdentifier source='mediainfo'>0</essenceTrackIdentifier>
+      <essenceTrackEncoding source='mediainfo'>MPEG-1 Audio layer 3</essenceTrackEncoding>
+      <essenceTrackDataRate unitsOfMeasure='Kbps'>192</essenceTrackDataRate>
+      <essenceTrackSamplingRate>44.1 KHz</essenceTrackSamplingRate>
+      <essenceTrackDuration>00:39:26</essenceTrackDuration>
+    </instantiationEssenceTrack>
+    <instantiationAnnotation annotationType='encoded by'>TEFNRTMuOTguMlVVVVVVVVVVVQE=</instantiationAnnotation>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>On Location</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2014-07-03 13:30:46</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>Pacifica Radio Archives</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Date'>1995-12-08</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-wm13n2192p</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR95177</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>9f11eb4fa868448cba8fdfb662eff105</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>
+     Raw footage of Hillary Clinton and Bob Dole Press Conferences in Concord
+    (New Hampshire) 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     First Lady Hillary Rodham Clinton answers questions from the media after
+    filing President Clinton's primary paperwork in Concord. Clinton discusses
+    positive economic changes in New Hampshire, U.S. troops in Bosnia, her role
+    in the re-election campaign, why independent voters should continue
+    supporting President Clinton, and her thoughts about a potential general
+    election campaign against Republican Sen. Bob Dole. Dole addresses the media
+    after filing his primary paperwork, briefly mentioning his plans for a
+    balanced budget, welfare reform, preserving and strengthening Medicare, and
+    tax cuts for families. He then field questions about comparisons to
+    President Clinton, opposition to President Clinton's military overseas
+    military intervention, his response to the president's budget, and the
+    direction of the Republican Party. 
+  </pbcoreDescription>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Unedited</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Clinton, Hillary Rodham</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Dole, Robert J., 1923-</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='                '>Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR95177</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0616</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>14:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-01-28 11:22:29</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>

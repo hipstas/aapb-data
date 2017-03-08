@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<pbcoreDescriptionDocument xmlns='http://www.pbcore.org/PBCore/PBCoreNamespace.html' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.pbcore.org/PBCore/PBCoreNamespace.html http://www.pbcore.org/xsd/pbcore-2.0.xsd'>
+  <pbcoreAssetType>Raw Footage</pbcoreAssetType>
+  <pbcoreAssetDate dateType='Created'>1996-01-25</pbcoreAssetDate>
+  <pbcoreIdentifier source='http://americanarchiveinventory.org'>cpb-aacip/503-zk55d8pb1z</pbcoreIdentifier>
+  <pbcoreIdentifier source='NHPR Code'>NHPR95113</pbcoreIdentifier>
+  <pbcoreIdentifier source='Sony Ci'>4d5b6c2548b04041b818d1bee63dac38</pbcoreIdentifier>
+  <pbcoreTitle titleType='Raw Footage'>
+     Hillary Rodham Clinton, First Lady of the United States, speaks at Keene
+    State College. 
+  </pbcoreTitle>
+  <pbcoreDescription descriptionType='Raw Footage'>
+     First Lady Hillary Rodham Clinton speaks at Keene State College about
+    President Clinton's seven-point plan to confront challenges facing the U.S.
+    She discusses strengthening the family unit, reducing teenage tobacco use,
+    pregnancy, and drug abuse; improving education standards, expanding school
+    choice, and keeping pace educationally with tech sector growth; increasing
+    middle class economic security by raising the minimum wage and reforming
+    healthcare, reducing crime through community policing and anti-gang
+    initiatives; protecting the environment, the U.S.'s role as global leader in
+    peacemaking efforts, and campaign finance reform. Keene State President Stan
+    Yarosewick gives welcoming remarks and Keene Mayor Pat Russell introduces
+    Clinton. 
+  </pbcoreDescription>
+  <pbcoreGenre annotation='topic'>Public Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Unedited</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Economics</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Education</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Social Issues</pbcoreGenre>
+  <pbcoreGenre source='AAPB Format Genre' annotation='genre'>Event Coverage</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Global Affairs</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Technology</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Environment</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Health</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Parenting</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Employment</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Politics and Government</pbcoreGenre>
+  <pbcoreGenre source='AAPB Topical Genre' annotation='topic'>Law Enforcement and Crime</pbcoreGenre>
+  <pbcoreCreator>
+    <creator>NHPR</creator>
+    <creatorRole>Producer</creatorRole>
+  </pbcoreCreator>
+  <pbcoreContributor>
+    <contributor>Clinton, Hillary Rodham</contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcoreContributor>
+    <contributor>Yarosewick, Stanley </contributor>
+    <contributorRole>Speaker</contributorRole>
+  </pbcoreContributor>
+  <pbcorePublisher>
+    <publisher>NHPR</publisher>
+    <publisherRole source='                      '>Release Agent</publisherRole>
+  </pbcorePublisher>
+  <pbcoreRightsSummary>
+    <rightsSummary>2012 New Hampshire Public Radio</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreRightsSummary>
+    <rightsSummary>No copyright statement in the content.</rightsSummary>
+  </pbcoreRightsSummary>
+  <pbcoreInstantiation>
+    <instantiationIdentifier source='NHPR Code'>NHPR95113</instantiationIdentifier>
+    <instantiationDigital>audio/wav</instantiationDigital>
+    <instantiationLocation>dat.0552</instantiationLocation>
+    <instantiationMediaType>Sound</instantiationMediaType>
+    <instantiationGenerations>Master</instantiationGenerations>
+    <instantiationGenerations>Original</instantiationGenerations>
+    <instantiationDuration>1:00:00</instantiationDuration>
+  </pbcoreInstantiation>
+  <pbcoreAnnotation annotationType='Level of User Access'>Online Reading Room</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='cataloging status'>Minimally Cataloged</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='last_modified'>2016-01-28 10:39:51</pbcoreAnnotation>
+  <pbcoreAnnotation annotationType='organization'>New Hampshire Public Radio</pbcoreAnnotation>
+</pbcoreDescriptionDocument>
