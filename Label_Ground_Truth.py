@@ -167,7 +167,7 @@ lbl4 = ttk.Label(c)
 rpt_btn.grid(column=0, row=4, sticky=N, pady=5, padx=5)
 lbl4.grid(column=5, row=5, sticky=N, pady=5, padx=5)
 
-rpt_btn = ttk.Button(c, text="Repeat", command= lambda: launch_vlc(current_file))
+rpt_btn = ttk.Button(c, text="Play in VLC", command= lambda: launch_vlc(current_file))
 lbl4 = ttk.Label(c)
 rpt_btn.grid(column=0, row=5, sticky=N, pady=5, padx=5)
 lbl4.grid(column=6, row=6, sticky=N, pady=5, padx=5)
