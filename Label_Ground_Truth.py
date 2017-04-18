@@ -133,6 +133,18 @@ def write_music(current_file):
 
 
 
+def launch_vlc(current_file):
+    try:
+        parent_filename = current_file.split('/')[-1].split('_sec_')[0]+'.wav'
+        parent_pathname = os.path.join(test_set_dir,parent_filename)
+        time_in = str(float(current_file.split('_sec_')[-1].replace('.wav','')))
+        subprocess.call(["/Applications/VLC.app/Contents/MacOS/VLC", "--start-time="+str(time_in), parent_pathname])
+    except:
+        print("ERROR launching VLC: "+current_file)
+
+
+
+
 yes_btn = ttk.Button(c, text=speaker_value, command= lambda: write_primary_speaker(current_file))
 lbl2 = ttk.Label(c)
 yes_btn.grid(column=0, row=1, sticky=N, pady=5, padx=5)
@@ -154,6 +166,13 @@ rpt_btn = ttk.Button(c, text="Repeat", command=repeat)
 lbl4 = ttk.Label(c)
 rpt_btn.grid(column=0, row=4, sticky=N, pady=5, padx=5)
 lbl4.grid(column=5, row=5, sticky=N, pady=5, padx=5)
+
+rpt_btn = ttk.Button(c, text="Repeat", command= lambda: launch_vlc(current_file))
+lbl4 = ttk.Label(c)
+rpt_btn.grid(column=0, row=5, sticky=N, pady=5, padx=5)
+lbl4.grid(column=6, row=6, sticky=N, pady=5, padx=5)
+
+
 
 
 
