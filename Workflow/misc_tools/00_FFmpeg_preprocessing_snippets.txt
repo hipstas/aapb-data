@@ -1,0 +1,47 @@
+ffmpeg bandpass filter
+
+
+
+#batch convert and delete original
+
+
+for filename in *.wav; do
+basename=`basename "$filename" .wav`
+ffmpeg -i """$filename""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=5000" """$basename.16000.wav"""
+rm $filename;
+done
+
+
+
+
+
+ffmpeg -i """/Volumes/U/AAPB_Corpus_May_2017/test_set_616_clips/Steinem, Gloria|cpb-aacip-15-fj29882s0v__16717-2008_10_12_.h264|2734|83s.wav""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=4500" ~/Desktop/steinem_test.wav
+
+
+
+
+#batch convert a directory
+
+for filename in *.wav; do
+basename=`basename "$filename" .wav`
+ffmpeg -i """$filename""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=5000" """$basename.16000.wav""";
+done
+
+
+#batch convert a directory with non-wavs
+
+for filename in *.mp3; do
+basename=`basename "$filename" .mp3`
+ffmpeg -i """$filename""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=5000" """$basename.16000.wav""";
+done;
+for filename in *.mp4; do
+basename=`basename "$filename" .mp4`
+ffmpeg -i """$filename""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=5000" """$basename.16000.wav""";
+done
+
+
+
+ffmpeg -i """/Volumes/McLaughlin-6TB-1/Extended_Corpus/Julia_Child/cpb-aacip-15-8g8ff3m255__barcode345043_roll76_.h264.mp4""" -ar 16000 -ac 1 -af "volume=0.99,highpass=f=150, lowpass=f=5000" """/Volumes/McLaughlin-6TB-1/Extended_Corpus/Julia_Child/cpb-aacip-15-8g8ff3m255__barcode345043_roll76_.h264.16000.wav"""
+
+
+
