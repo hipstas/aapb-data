@@ -21,7 +21,7 @@ speaker_value = "Baldwin, James"
 #######################################
 
 
-random.seed(1001)
+random.seed(1009)
 
 mixer.pre_init(16000, -16, 1)
 
