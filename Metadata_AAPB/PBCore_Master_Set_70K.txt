@@ -1,0 +1,4 @@
+
+Download PBCore metadata for 70K+ digitized recordings in AAPB (134.6 MB zip file):
+http://www.stephenmclaughlin.net/ph-library/data/PBCore_Master_Set_70K.zip
+
