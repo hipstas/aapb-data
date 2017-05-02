@@ -1,0 +1,40 @@
+clips
+
+51.0 | 7.0
+26.0 | 16.0
+
+
+Sensitivity, hit rate, recall, or true positive rate
+0.879310344828
+
+
+Specificity or true negative rate
+0.380952380952
+
+
+Precision or positive predictive value
+0.662337662338
+
+
+Negative predictive value
+0.695652173913
+
+
+Fall out or false positive rate
+0.619047619048
+
+
+False negative rate
+0.120689655172
+
+
+False discovery rate
+0.337662337662
+
+
+Overall accuracy
+0.67
+
+
+F1
+0.755555555556

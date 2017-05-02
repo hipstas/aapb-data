@@ -1,0 +1,41 @@
+CONFUSION MATRIX
+71.0 | 56.0
+16.0 | 107.0
+
+Accuracy: 0.712
+
+
+Sensitivity, hit rate, recall, or true positive rate
+0.55905511811
+
+
+Specificity or true negative rate
+0.869918699187
+
+
+Precision or positive predictive value
+0.816091954023
+
+
+Negative predictive value
+0.656441717791
+
+
+Fall out or false positive rate
+0.130081300813
+
+
+False negative rate
+0.44094488189
+
+
+False discovery rate
+0.183908045977
+
+
+Overall accuracy
+0.712
+
+
+F1
+0.663551401869
