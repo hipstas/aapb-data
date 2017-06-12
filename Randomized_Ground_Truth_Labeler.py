@@ -45,7 +45,7 @@ for filename in test_filenames:
     except:
         print("Apparently already processed: "+filename)
     test_clips_1_sec += [os.path.join(segment_dir_pathname,item) for item in os.listdir(segment_dir_pathname) if item[-4:].lower() == '.wav']
-    
+
 
 random.shuffle(test_clips_1_sec)
 
@@ -83,7 +83,7 @@ ground_truth_filename = test_set_dir.strip('/').split('/')[-1]+'_ground_truth.cs
 
 fo=open(ground_truth_filename,'w')
 csv_writer = csv.writer(fo)
-    
+
 csv_writer.writerow(['Basename','Time_in','Duration','Value','Additional_label'])
 
 
@@ -203,7 +203,7 @@ fo.close()
 #true positive is intersection of ground truth positive seconds and machine positive
 #true negative is intersection of ground truth negative and machine negative
 #false positive is ground truth negative intersected with machine positive
-#false negative is ground truth positive intersected with machine negative 
+#false negative is ground truth positive intersected with machine negative
 
 #Compare:
 #Gmm
@@ -212,6 +212,3 @@ fo.close()
 #Svm
 #Svm smoothed 1x
 #Svm smoothed 2x
-
-
-
